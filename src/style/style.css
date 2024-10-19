@@ -19,7 +19,7 @@
   /* section logo */
   .logo{
     height: 50px;
-    width: 55%;
+    width: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
