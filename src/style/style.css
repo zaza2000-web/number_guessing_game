@@ -48,10 +48,12 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    
   }
   h1{
     text-align: center;
     line-height: 1.5;
+    border-bottom: white dashed 2px
   }
   .story-container {
     padding-bottom: 20px;
@@ -64,6 +66,12 @@
     position: relative;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
-
-
+ 
+ul{
+  list-style: none;
+}
+footer{
+  border-top:dashed white 3px;
+  padding-top: 15px;
+}
 }
