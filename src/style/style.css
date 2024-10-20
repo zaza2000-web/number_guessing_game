@@ -75,7 +75,12 @@ ul>li{
 }
 footer{
   border-top:dashed white 3px;
-  padding-top: 50px;
+  padding-top: 25px;
+}
+
+a{
+  text-decoration: none;
+  color: indianred;
 }
 
 }
